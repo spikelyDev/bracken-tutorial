@@ -8,11 +8,15 @@ Watch the full tutorial on YouTube: [How to Code Bracken from Lethal Company in 
 
 ## Code Snippets
 
-BrackenController: [BrackenController.cs](https://github.com/spikelyDev/bracken-tutorial/blob/main/Assets/Scripts/BrackenController.cs)
+PlayerController: [PlayerController.cs](https://github.com/spikelyDev/bracken-tutorial/blob/main/Assets/Scripts/PlayerController.cs)
 
-PlayerDetection: [PlayerDetection.cs](https://github.com/spikelyDev/bracken-tutorial/blob/main/Assets/Scripts/PlayerDetection.cs)
+FSM: [FSM.cs](https://github.com/spikelyDev/bracken-tutorial/blob/main/Assets/Scripts/FSM.cs)
 
-EnvironmentInteraction: [EnvironmentInteraction.cs](https://github.com/spikelyDev/bracken-tutorial/blob/main/Assets/Scripts/EnvironmentInteraction.cs)
+BrackenFSM: [BrackenFSM.cs](https://github.com/spikelyDev/bracken-tutorial/blob/main/Assets/Scripts/Bracken/Helpers/BrackenFSM.cs)
+
+PlayerDetector: [PlayerDetector.cs](https://github.com/spikelyDev/bracken-tutorial/blob/main/Assets/Scripts/Bracken/PlayerDetector.cs)
+
+BoundsExtensions: [BoundsExtensions.cs](https://github.com/spikelyDev/bracken-tutorial/blob/main/Assets/Scripts/Extensions/BoundsExtensions.cs)
 
 ## Project Overview
 
