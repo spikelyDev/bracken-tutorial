@@ -4,7 +4,7 @@ This Unity project is based on the code featured in my YouTube video tutorial on
 
 ## Video Tutorial
 
-Watch the full tutorial on YouTube: [How to Code Bracken from Lethal Company in Unity](https://www.youtube.com/watch?v=yourvideoURL)
+Watch the full tutorial on YouTube: [How to Code Bracken from Lethal Company in Unity](https://www.youtube.com/watch?v=68hqUd8Ybvo)
 
 ## Code Snippets
 
